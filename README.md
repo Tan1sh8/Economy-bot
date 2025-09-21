@@ -26,7 +26,7 @@ pip install discord.py
   "prefix": ".",
   "token": "YOUR_BOT_TOKEN"
 }
-
+```
 4. Run the bot:
 
 
