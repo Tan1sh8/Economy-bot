@@ -5,7 +5,7 @@ README.md
 
 # Discord Economy Bot
 
-A fully featured Discord economy bot with pocket & bank system, work, crime, daily/weekly rewards, rob, heist, roulette, leaderboards, and admin commands. All commands respond using **embeds**.
+A fully featured Discord economy bot with pocket & bank system, work, crime, daily/weekly rewards, rob, heist, roulette, leaderboards, and admin commands
 
 ---
 
